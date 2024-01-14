@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/unity-donkey-kong-tutorial-main/unity-donkey-kong-tutorial-main/Assets/Scenes/Preload.unity
-    guid: 0ff948b0040f8384c8ab975b00d96dfa
+    path: Assets/Scenes/Preload.unity
+    guid: 1d5777185e354b64a86cbd318788e544
   - enabled: 1
-    path: Assets/unity-donkey-kong-tutorial-main/unity-donkey-kong-tutorial-main/Assets/Scenes/Level1.unity
-    guid: 86bcc5c2d6732bc4ba6be23677267f76
+    path: Assets/Scenes/Level 01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/unity-donkey-kong-tutorial-main/unity-donkey-kong-tutorial-main/Assets/Scenes/Level2.unity
-    guid: 8a734aeea73155248815be72e6855774
+    path: Assets/Scenes/Level2.unity
+    guid: a2a36bc596d6ddc45a0c9c0a27aa7a86
   m_configObjects: {}
